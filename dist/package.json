@@ -4,7 +4,7 @@
   "description": "Keypad plugin extends Framework7 with additional custom keyboards",
   "main": "framework7-keypad.js",
   "jsnext:main": "framework7-keypad.esm.js",
-  "module": "framework7-keypad.esm.js",
+  "module": "framework7-keypad.min.js",
   "type": "module",
   "exports": {
     ".": "./framework7-keypad.esm.js",
